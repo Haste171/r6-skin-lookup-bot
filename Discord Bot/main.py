@@ -137,4 +137,4 @@ async def skins(self, ctx, name:str):
         embed3=discord.Embed(title='Error',color=0x000000, description='User doesn\'t exist or doesn\'t have R6')
         await ctx.send(embed=embed3)
 
-client.run('ODk3ODk0NjAyMTg5NzI5Nzky.YWcTgw.zUWyUkOI-4ahfcURK100dDL1Q-M')
+client.run('token')
